@@ -43,6 +43,12 @@
         1. Dirección de los ejes
         1. Propiedades de alineación
      1.¿Cómo se conecta un css en HTML?
+  
+  
+  # <h1> Objetivos
+  
+  Saber | Saber Hacer | Saber ser y estar
+  ----- | ----------- | -----------------
 
 
 
