@@ -6,16 +6,28 @@
   * Grado: Bachillerato en Ciencias y Letras con Orientación en Diseño Gráfico
   * Materia: Diseño Computarizado
   * Profesor: Jossue Emmanuel Fuentes
+  
+  
+  # <h1> Índice
+  1. Header
+  1. Tipos de etiquetas
+     1. Estructura de etiquetas
+  1. Listas de etiquetas dirigidas al texto
+     1. Títulos
+     1. Párrafos
+     1. Hiperenlaces
+     1. Formularios
+     1. Tablas de contenido
+     1. Listas de contenido
+  1. Listas de etiquetas dirigidas a objetos
+     1. Estructuras
+     1. Imagenes
+  1. Tipos de propiedades
+     1.
+
+
 
   
-
-
-
-
-
-
-
-
 
 
 
