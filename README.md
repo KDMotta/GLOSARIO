@@ -23,7 +23,26 @@
      1. Estructuras
      1. Imagenes
   1. Tipos de propiedades
-     1.
+  1. Listado de propiedades css dirigidas al texto
+     1. Texto
+     1. Fuentes
+     1. Colores y fondo
+     1. Listas de contenido
+     1. Tablas de contenido
+  1. Listado de propiedades css dirigidas a objetos
+     1. Modelo de cajas
+     1. Margin
+     1. Padding
+     1. Bordes
+     1. Contenedores
+  Listado de propiedades css dirigida a elementos (maquetación y colocación) 
+     1. Tipos de elementos
+     1. Otros tipos de elementos
+     1. Flexbox
+        1. Conceptos
+        1. Dirección de los ejes
+        1. Propiedades de alineación
+     1.¿Cómo se conecta un css en HTML?
 
 
 
