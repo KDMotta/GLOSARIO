@@ -9,6 +9,7 @@
   
   
   # <h1> Índice
+  1. Home Page
   1. Header
   1. Tipos de etiquetas
      1. Estructura de etiquetas
