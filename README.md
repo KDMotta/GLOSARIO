@@ -57,3 +57,10 @@
    https://kdmotta.github.io/Revision-1/
   
   
+  # <h1> Objetivos Futuros
+  
+  Organización 	:hourglass_flowing_sand: | Investigación :mag_right: | Propósito :dart:
+  ------------ | ------------- | ---------
+  
+  
+  
