@@ -48,8 +48,8 @@
   # <h1> Objetivos
   
   Saber :bulb: | Saber Hacer :gear: | Saber ser y estar :star2:
-  ----- | ----------- | -----------------
-  Reconocer el uso adecuado de cada etiqueta, propiedad, atributo. | Manejar y comprender de una mejor manera la maquetaciónn y colocación. | Adquirir el hábito de practicar más, seguir realizando páginas y maquetación tanto para mejorar, como para aprender nuevas cosas.
+  ------------ | ------------------ | -------------------------
+  Reconocer el uso adecuado de cada etiqueta, propiedad, atributo. | Manejar y comprender de una mejor manera la maquetaciónn y colocación. | Adquirir el hábito de   practicar más, seguir realizando páginas y maquetación tanto para mejorar, como para aprender nuevas cosas.
 
 
   # <h1> Documentación
@@ -59,8 +59,9 @@
   
   # <h1> Objetivos Futuros
   
-  Organización 	:hourglass_flowing_sand: | Investigación :mag_right: | Propósito :dart:
-  ------------ | ------------- | ---------
+  Organización 	:hourglass_flowing_sand: | Investigación :mag_right: | Propósito :checkered_flag:
+  -------------------------------------- | ------------------------- | --------------------------
+  Organizar mi tiempo de manera rigurosa, para que así la elaboración del glorasio pueda cumplir con las fechas establecidas de entrega. | Esto en un futuri me       servirá para seguir generando y desarrollando páginas, app, etc, ya sea como un reto personal o bien pensar en grande y llevarlas a más. Así tambien seguir         buscando información acerca de este tema. Buscar más métodos para seguir desarrollando. | Esforzarme en la realización de este Glosario, ya que en un futuro me     puede servir todo lo puesto en él. Así también trabajar minuciosamente para cumpla con todos los requisitos.
   
   
-  
+ 
