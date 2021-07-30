@@ -47,7 +47,7 @@
   
   # <h1> Objetivos
   
-  Saber | Saber Hacer | Saber ser y estar
+  Saber :bulb: | Saber Hacer :gear: | Saber ser y estar :star2:
   ----- | ----------- | -----------------
   Reconocer el uso adecuado de cada etiqueta, propiedad, atributo. | Manejar y comprender de una mejor manera la maquetaciónn y colocación. | Adquirir el hábito de practicar más, seguir realizando páginas y maquetación tanto para mejorar, como para aprender nuevas cosas.
 
