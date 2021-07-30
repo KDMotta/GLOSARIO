@@ -2,10 +2,10 @@
 
   # <h1> Anteportada
   * Colegio Santa Catalina Labouré
-  * Nombre: Karla Daniela Motta Salguero
-  * Grado: Bachillerato en Ciencias y Letras con Orientación en Diseño Gráfico
-  * Materia: Diseño Computarizado
-  * Profesor: Jossue Emmanuel Fuentes
+  * **Nombre:** Karla Daniela Motta Salguero
+  * **Grado:** Bachillerato en Ciencias y Letras con Orientación en Diseño Gráfico
+  * **Materia:** Diseño Computarizado
+  * **Profesor:** Jossue Emmanuel Fuentes
   
   
   # <h1> Índice
